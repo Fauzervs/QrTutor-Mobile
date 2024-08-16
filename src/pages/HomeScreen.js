@@ -1,7 +1,7 @@
 import { View } from "react-native";
 import { Button, Text } from "react-native";
 
-export default  function HomeScreen(navigation){
+export default  function HomeScreen({navigation}){
 return(
     <View>
 <Text>Home Screen</Text>
